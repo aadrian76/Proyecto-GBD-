@@ -1,6 +1,4 @@
-# Proyecto-GBD-
-Proyecto de inventario de Gestión de Base de Datos
-# 🌟 Nombre del Proyecto
+# 🌟 Proyecto-GBD-
 
 ![Licencia](https://img.shields.io/github/license/usuario/nombre-del-repo?style=flat-square)
 ![Última Actualización](https://img.shields.io/github/last-commit/usuario/nombre-del-repo?style=flat-square)
@@ -8,10 +6,9 @@ Proyecto de inventario de Gestión de Base de Datos
 
 ## 📖 Descripción
 
-Breve descripción del proyecto: ¿qué hace, por qué es útil y a quién está dirigido?  
-Ejemplo: "Este proyecto es una herramienta para automatizar procesos de análisis de datos, proporcionando estadísticas clave y visualizaciones intuitivas."
-
----
+Este proyecto se trata de hacer una base de datos asociada a 
+una empresa ficticia de tecnología como proyecto de segundo 
+trimestre de la asignatura de gestion de base de datos  
 
 ## 🚀 Características
 
