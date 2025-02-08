@@ -26,3 +26,6 @@ Esta base de datos contiene todo el equipamiento y personal de la empresa
   -  Realizar consultas: No empezado
 
 ## 📋 Diagrama de entidades
+![image](https://github.com/user-attachments/assets/3c87c747-43dc-48db-8a09-8cf5e3bc1c1f)
+![File]()
+
